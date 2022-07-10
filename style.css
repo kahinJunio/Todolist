@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(204, 209, 209);
+}
+h1{
+    text-align: center;
+    margin-bottom: 5px;
+    color: rgb(168, 59, 59);
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.input,.task{
+    background-color: white;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 4px;
+    margin: 0 auto;
+}
+input,button{
+    padding: 10px 15px;
+    border: none;
+}
+
+button{
+    background-color: rgb(149, 73, 73);
+    color: white;
+    border-radius: 5px;
+}
+span{
+    padding: 6px;
+}
+li{
+    list-style: none;
+    padding: 5px;
+    background-color: aliceblue;
+    margin-bottom: 8px;
+}
